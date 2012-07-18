@@ -106,6 +106,10 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.admin',
+    # 3rd party applications
+    'taggit',
+    # webtech applications
+    'blog',
 )
 
 LOGGING = {
