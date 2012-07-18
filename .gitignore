@@ -2,6 +2,8 @@
 *.so
 *.egg
 *.egg-info
+.project
+.pydevproject
 dist
 build
 _build
